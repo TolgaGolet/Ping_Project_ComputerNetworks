@@ -4,7 +4,7 @@ This project aims to measure ping times by sending packets to certain destinatio
 
 # Screenshots
 
-![screenshot](https://github.com/TolgaGolet/Ping_Project_ComputerNetworks/blob/master/Screenshots/Screenshot.png)
+![screenshot](https://github.com/TolgaGolet/Ping_Project_ComputerNetworks/blob/master/Screenshots/Screenshot.PNG)
 
 # Conclusion
 
